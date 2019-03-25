@@ -1,0 +1,21 @@
+/*
+* Riley Cochran
+* 20 March 2019
+*RILEYS 2ND SEMESTER SCHEDULE
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {
+    background-color:#e8b4bb;
+}
+table, td, th{ border: 1px solid antiquewhite;}
+table { border-collapse: collapse;}
+
+thead{ background-color:antiquewhite;}
+tfoot{ background-color:antiquewhite;}
